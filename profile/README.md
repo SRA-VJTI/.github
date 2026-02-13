@@ -1,3 +1,3 @@
-SRA VJTI
+This is the robotics club of VJTI, Mumbai.
 
-This is a robotics club of VJTI
+[sravjti.in](https://sravjti.in) for more
